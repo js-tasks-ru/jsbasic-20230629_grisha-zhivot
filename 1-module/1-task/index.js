@@ -3,5 +3,5 @@ function factorial(n) {
     while(n) {
       factorial *= n--;
     }
-    return factorial
+    return factorial;
 }
